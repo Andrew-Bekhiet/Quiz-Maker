@@ -1,0 +1,2 @@
+add QM key to HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\myexe.exe
+HKEY_CURRENT_USER\Software\Thingummy Software\Licensing\.NET Reflector\8.0

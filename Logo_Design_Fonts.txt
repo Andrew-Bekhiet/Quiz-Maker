@@ -1,0 +1,22 @@
+ Akzidenz 
+ Avant Garde 
+ Avenir 
+ Bell Gothic 
+ Bembo 
+ Bodoni 
+ Caslon 
+ Clarendon 
+ Courier Std 
+ DIN Std 
+ Eurostile 
+ Franklin Gothic 
+ Frutiger 
+ Futura 
+ Garamond 
+ Gill Sans 
+ Gotham 
+ Helvetica 
+ Rockwell 
+ Sabon LT Std 
+ Trade Gothic 
+ Univers
